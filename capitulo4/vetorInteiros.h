@@ -1,18 +1,24 @@
-typedef struct list List;
+typedef struct{
+  int *dados;
+  int n;
+  int tam;
+} List;
 
-List* listCria (int x[]);
+List* listCria (int tam);
 
-int* listUne(List* l, int x[], int y[]);
+List* listUne(List* l, List *l2);
 
 int listAdd(List* l, int n);
 
 int listRemove(List* l, int indice);
 
-int* acessaList(List* l, int* x[]);
+int acessaList(List* l, int indice);
 
-int* listInterse(List* l, List* n);
+void destroiList(List* l);
 
-int* listDif(List* l, int x[], int y[]);
+List* listIntersect(List* l, List* n);
+
+List* listDif(List* l, List* n);
 
 int listPertence(List* l, int x);
 
@@ -20,10 +26,12 @@ int menorValor(List* l);
 
 int maiorValor(List *l);
 
-bool listEquals(List *l, List *n);
+int listEquals(List *l, List *n);
 
 int listTam(List *l);
 
-bool listEmpity(List *l);
+int listEmpity(List *l);
+
+int tamanhoList(List *l);
 
 
