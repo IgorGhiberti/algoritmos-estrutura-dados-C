@@ -1,4 +1,4 @@
-//Dado um número  e um array ordenado, escreva um algoritmo para inserir esse array na sua posição correta.
+//Dado um número  e um array ordenado, escreva um algoritmo para inserir esse número na sua posição correta.
 
 #include <stdio.h>
 
