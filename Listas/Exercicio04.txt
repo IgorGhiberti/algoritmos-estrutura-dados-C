@@ -1,0 +1,4 @@
+4) Descreva as diferenças entre alocação estática e dinâmica.
+
+Resposta: A alocação estática é pré definida e ocupa na memória na hora da execução do programa. A alocação dinâmica vai ocupando conforme elementos são adicionados, da mesma
+forma que vai desocupando caso elementos sejam removidos.

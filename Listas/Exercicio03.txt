@@ -1,0 +1,11 @@
+3) Enumere as vantagens e desvantagens de se utilizar acesso encadeado para um conjunto de elementos.
+
+Resposta: 
+
+Vatagens: 
+1 - Facilita inserção/remoção de elementos na lista, não preciso alterar os elementos de posição para realizar essas operações.
+
+2 - Posso trabalhar com uma lista sem saber o seu tamanho final, isso em muitos casos pode economizar memória, já que não ocuparei o que não usarei.
+
+Desvatagens:
+1 - Dificulta as buscas, pois você precisa percorrer a lista toda.

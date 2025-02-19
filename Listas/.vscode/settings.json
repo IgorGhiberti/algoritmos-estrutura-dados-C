@@ -1,0 +1,8 @@
+{
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showUsers": false,
+    "editor.suggest.showMethods": false,
+    "editor.inlineSuggest.edits.codeShifting": true,
+    "editor.inlineSuggest.enabled": false
+}

@@ -1,0 +1,5 @@
+1) Explique o que é alocação sequencial de memória para um conjunto de elementos.
+
+Resposta: A alocação sequencial de memória é uma alocação fixa que precisa ser definida na sua implementação. A memória será alocada na execução do programa.
+
+

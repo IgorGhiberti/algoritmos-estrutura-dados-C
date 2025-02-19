@@ -1,0 +1,6 @@
+2) Descreva a diferença entre acesso sequencial e acesso encadeado.
+
+Resposta: Acesso sequencial se refere ao acesso sequencial de memória, ou seja, os elementos da lista tem suas referências na memória sequenciais, por exemplo:
+[1, 2, 3] tem os endereços: 001, 002, 003, e dessa forma se eu souber o índice (posição) do elemento eu consigo acessar ele diretamente. Já o acesso encadeado
+se difere na forma de acessar os elementos na memória, pois o elemento n tem seu endereço de memória "guardado" pelo elemento n-1, por exemplo: [1]->[2]->[3]
+o 1 guarda o endereço do 2 e assim por diante. Para acessar qualquer elemento, preciso percorrer toda a lista a partir do início.
