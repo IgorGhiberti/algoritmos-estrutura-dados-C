@@ -1,0 +1,5 @@
+4/5) Explique como implementar uma pilha e uma fila utilizando deque.
+
+R: Na estrutura Deque, eu irei armazenar um ponteiro para o próximo elemento e pro anterior, além do próprio valor.
+Já na estrutura Pilha eu armazeno um ponteiro para o final, que seria o último elemento adicionado. Para a fila,
+a diferença é que armazenarei um ponteiro para o início, para controlar inserção/remoção.

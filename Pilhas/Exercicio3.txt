@@ -1,0 +1,8 @@
+3) Considere uma pilha inteira com 4 valores inteiros, na seguinte ordem: 1,2,3,4. Qual a sequência de inserções
+e remoções necessárias para deixá-la: 2,4,3,1.
+
+RRRR
+I(2)
+I(4)
+I(3)
+I(1)

@@ -1,0 +1,3 @@
+3) Descreva com suas palavras um grafo bipartido.
+
+R: É um grafo que pode ser dividio em dois subcojuntos sem intersecção.

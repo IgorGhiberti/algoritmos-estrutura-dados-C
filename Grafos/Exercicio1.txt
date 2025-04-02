@@ -1,0 +1,3 @@
+1) Descrava com suas palavras o que é um grafo.
+
+R: Grafo é um modelo matemático que busca explicar a relação entre objetos em um conjunto.

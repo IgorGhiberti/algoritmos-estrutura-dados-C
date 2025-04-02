@@ -1,0 +1,8 @@
+1) Defina, com suas palavras, o que é uma tabela Hash e como ela funciona e cite duas características desejáveis
+para que ela tenha um bom desempenho.
+
+R: Tabelas Hash são um tipo especial de array, onde é possível armazenar uma chave que estará associada a
+cada valor do array. Essa chave é usada para calcular a posição da tabela, onde o valor será incluído. Sendo
+assim, caso se tenha a chave, é possível acessar imediatamente (O(n)) o valor. Duas características são fundamentais
+para a implementação de uma tabela Hash, a primeira é evitar o maior número de colisões (valores na mesma posição)
+possível. A outra é ser uniforme, o acesso aos valores deverá ser de igual complexidade independente da chave.  

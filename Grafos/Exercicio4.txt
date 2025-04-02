@@ -1,0 +1,4 @@
+4) Descreva com suas palavras o que é um grafo conexo e um desconexo.
+
+R: Um grafo conexo é um grafo onde todos seus vértices possuem um caminho de ida e volta, já no desconexo,
+pode existir um vértice sem ligação com quaisquer outro.

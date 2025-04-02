@@ -1,0 +1,6 @@
+1) Com suas palavras, defina a diferença entre fila e fila de baixa prioridade.
+
+R: A fila de prioridade, é uma estrutura do tipo fila, porém que leva em consideração a prioridade de um item
+em relação ao outro. Por exemplo uma fila de um banco, onde existe uma fila de idades das pessoas que serão atendidas
+caso a idade seja maior que 60, a prioridade poderia ser um, no caso. Logo, mesmo que na fila real eles estejam atrás
+suas demandas serão vistas antes.

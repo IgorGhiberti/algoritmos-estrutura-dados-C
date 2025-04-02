@@ -1,0 +1,5 @@
+2-3)O paradoxo do aniversário diz que, 23 pessoas em uma sala possuem uma chance de mais de 50% de haver uma dupla
+que faça aniversário no mesmo dia. Explique por que esse paradoxo é um exemplo do maior problema das tabelas
+hash.
+
+R: Porque ele exemplifica bem a ideia de colisão, que seria a partir de chaves diferentes gerar a mesma posição.

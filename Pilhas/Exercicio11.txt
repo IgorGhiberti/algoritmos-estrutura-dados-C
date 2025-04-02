@@ -1,0 +1,4 @@
+11)Considerando as operações de inserção (I) e remoção (R) em pilha, escreva a configuração da pilha após a seguinte sequência de operações:
+I(11), I(34), R, R, I(23), I(45), R, I(121), I(22), R, R.
+
+R: [23]. 23 será o resultado final;

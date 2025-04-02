@@ -1,0 +1,4 @@
+2) Descreva com suas palavras o que é um subgrafo.
+
+R: Subgrafo é um grafo contido dentro de outro grafo, necessário quando a relação entre um vértice e outro
+é tão complexo que exige outro grafo (menor) para explicá-la.

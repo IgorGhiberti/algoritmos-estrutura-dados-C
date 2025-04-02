@@ -1,0 +1,7 @@
+3) Explique a diferença na implementação de uma fila de prioridade através de um array ordenado e de uma heap
+binária.
+
+R: No array ordenado, os elementos de maior prioridade estarão no final da fila, e os de menor, no início.
+Na heap binária acontece o oposto, o de maior prioridade é o elemento pai de todos os outros, ou seja, no início.
+E a prioridade do pai tem que ser sempre maior que de seus dois filhos, cada posição no array (i) tem dois filhos;
+2i+1 e 2i+2.

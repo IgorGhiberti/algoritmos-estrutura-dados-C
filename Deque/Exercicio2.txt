@@ -1,0 +1,4 @@
+2) Quais características que definem um Deque?
+
+R: Um Deque é um tipo especial de fila que permite inserção tanto no começo, quanto no final da fila. E o mesmo
+vale para a remoção.
