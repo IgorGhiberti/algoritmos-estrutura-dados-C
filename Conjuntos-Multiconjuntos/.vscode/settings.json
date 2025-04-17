@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "set.h": "c",
+        "bag.h": "c"
+    }
+}

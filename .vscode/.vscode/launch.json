@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "lldb-dap",
+            "request": "launch",
+            "name": "Debug",
+            "program": "${workspaceFolder}/firstComp",
+            "args": [
+                "-g",
+                "${workspaceFolder}/skipListTest.c",
+                "${workspaceFolder}/SkipList.c",
+                "-o",
+                "${workspaceFolder}/programa"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

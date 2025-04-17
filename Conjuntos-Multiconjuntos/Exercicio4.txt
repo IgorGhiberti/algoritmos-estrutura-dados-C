@@ -1,0 +1,5 @@
+4) O que é um iterator, qual seu propósito?
+
+R: Ele é criado no intuito de gerir um conjunto/multiconjunto de dados, onde funciona como uma lista dinâmica encadeada
+guardando a referência para todos elementos de um conjunto/multiconjunto.
+

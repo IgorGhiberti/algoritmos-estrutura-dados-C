@@ -1,0 +1,5 @@
+1) Descreva com suas palavras o que é uma árvore. Utilize os conceitos de grafo.
+
+R: Uma árvore é uma estrutura de dados que possui vértices, ligados por arestas, onde estes vértices possuem
+filhos e sua direção é de cima para baixo (hierárquico). Então a raiz é sempre o primeiro elemento, seguido dos seus nós filhos,
+e cada nó filho pode ter outros filhos, até o momento de um nó não possuir mais filhos.

@@ -1,0 +1,4 @@
+2) Quais atributos definem a estrutura de dados multiconjunto?
+
+R: Permite o armazenamento de um conjunto de dados, que permite repetições, de forma não ordenada e 
+pode ter elementos diferentes, caso sejam iguais (os elementos) é considerado um multiconjuntos homogêneo.
